@@ -25,7 +25,7 @@ function App() {
       
         <div className="vid-info mt-2 mr-2" style={{borderRadius: 20}} >
         <h1>Tour</h1>
-        <h5 ><a style={{width : "30%" , backgroundColor : "red",borderRadius: 20}} href="https://github.com/webdevrachit" rel="noopener noreferrer" target="_blank">Follow Me</a></h5>
+        <h5 ><a style={{width : "30%" , backgroundColor : "red",borderRadius: 20}} href="https://github.com/85599" rel="noopener noreferrer" target="_blank">Follow Me</a></h5>
           
           <ListGroup className="mt-5" >
 
