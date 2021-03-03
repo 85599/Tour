@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[live Status](https://stoic-ptolemy-b1fce0.netlify.app/)
+[live Status](https://603f751f4f0e3427318c4a75--sharp-ramanujan-a5b6ec.netlify.app/#)
 
 ## Available Scripts
 
